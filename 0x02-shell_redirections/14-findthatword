@@ -1,2 +1,2 @@
 #!/bin/bash
-greep -1 "root" /etc/passwd
+greep -i "root" /etc/passwd
